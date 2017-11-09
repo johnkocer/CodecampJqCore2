@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlPageStartUp", "HtmlPageStartUp\HtmlPageStartUp.csproj", "{241AF676-042F-405B-81B0-ADD0BBD1938F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentJquery.Ui", "PaymentJquery.Ui\PaymentJquery.Ui.csproj", "{BEE95DA0-5946-4880-ACA6-CBE6EC00A77D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeJquery.Ui", "EmployeeJquery.Ui\EmployeeJquery.Ui.csproj", "{BF71FB1E-1DBB-44FE-8760-286C3A0EF0A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCoreGenericRepository", "EFCoreGenericRepository\EfCoreGenericRepository\EfCoreGenericRepository.csproj", "{84244295-93F6-47A5-A2BF-48249A3EB939}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.Ui", "EFCoreGenericRepository\Blog.Ui\Blog.Ui.csproj", "{8C2C95C5-0C8B-409A-8B5B-97B280C4E409}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreBasicBlogUi", "EFCoreBasicBlogUi\EFCoreBasicBlogUi.csproj", "{1EE279D3-E7C1-4C1D-AD02-B4A815B0C094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241AF676-042F-405B-81B0-ADD0BBD1938F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241AF676-042F-405B-81B0-ADD0BBD1938F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241AF676-042F-405B-81B0-ADD0BBD1938F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241AF676-042F-405B-81B0-ADD0BBD1938F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE95DA0-5946-4880-ACA6-CBE6EC00A77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE95DA0-5946-4880-ACA6-CBE6EC00A77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE95DA0-5946-4880-ACA6-CBE6EC00A77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE95DA0-5946-4880-ACA6-CBE6EC00A77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF71FB1E-1DBB-44FE-8760-286C3A0EF0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF71FB1E-1DBB-44FE-8760-286C3A0EF0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF71FB1E-1DBB-44FE-8760-286C3A0EF0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF71FB1E-1DBB-44FE-8760-286C3A0EF0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84244295-93F6-47A5-A2BF-48249A3EB939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84244295-93F6-47A5-A2BF-48249A3EB939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84244295-93F6-47A5-A2BF-48249A3EB939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84244295-93F6-47A5-A2BF-48249A3EB939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2C95C5-0C8B-409A-8B5B-97B280C4E409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2C95C5-0C8B-409A-8B5B-97B280C4E409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2C95C5-0C8B-409A-8B5B-97B280C4E409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2C95C5-0C8B-409A-8B5B-97B280C4E409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE279D3-E7C1-4C1D-AD02-B4A815B0C094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE279D3-E7C1-4C1D-AD02-B4A815B0C094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE279D3-E7C1-4C1D-AD02-B4A815B0C094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE279D3-E7C1-4C1D-AD02-B4A815B0C094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3BCF52-CE7E-4209-8BB1-C059A033676D}
+	EndGlobalSection
+EndGlobal
